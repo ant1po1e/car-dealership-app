@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\symam\\source\\repos\\CarDealer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|c:\\users\\symam\\source\\repos\\cardealer\\cardealer\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|c:\\users\\symam\\source\\repos\\cardealer\\cardealer\\fuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\fuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|C:\\Users\\symam\\source\\repos\\CarDealer\\cardealer\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|c:\\users\\symam\\source\\repos\\cardealer\\cardealer\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|C:\\Users\\symam\\source\\repos\\CarDealer\\cardealer\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|C:\\Users\\symam\\source\\repos\\CarDealer\\cardealer\\fuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\fuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|C:\\Users\\symam\\source\\repos\\CarDealer\\cardealer\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|c:\\users\\symam\\source\\repos\\cardealer\\cardealer\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|c:\\users\\symam\\source\\repos\\cardealer\\cardealer\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|C:\\Users\\symam\\source\\repos\\CarDealer\\cardealer\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|C:\\Users\\symam\\source\\repos\\CarDealer\\cardealer\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|C:\\Users\\symam\\source\\repos\\CarDealer\\cardealer\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|C:\\Users\\symam\\source\\repos\\CarDealer\\cardealer\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|C:\\Users\\symam\\source\\repos\\CarDealer\\cardealer\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|C:\\Users\\symam\\source\\repos\\CarDealer\\cardealer\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|C:\\Users\\symam\\source\\repos\\CarDealer\\cardealer\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFE2073-E693-4B8F-A53E-3FA0EB750583}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cars.cs",
+              "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Cars.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Cars.cs",
+              "ToolTip": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Cars.cs",
+              "RelativeToolTip": "CarDealer\\Cars.cs",
+              "ViewState": "AQIAAJ8AAACgU2ZmZmb4v8oAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T01:12:11.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Types.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Types.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Types.cs",
+              "ToolTip": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Types.cs [Design]",
+              "RelativeToolTip": "CarDealer\\Types.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T01:30:30.511Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Types.cs",
+              "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Types.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Types.cs",
+              "ToolTip": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Types.cs",
+              "RelativeToolTip": "CarDealer\\Types.cs",
+              "ViewState": "AQIAAOYAAABgMzMzMzMswPIAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T01:30:32.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cars.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Cars.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Cars.cs",
+              "ToolTip": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Cars.cs [Design]",
+              "RelativeToolTip": "CarDealer\\Cars.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T01:12:09.399Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fuel.cs",
+              "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Fuel.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Fuel.cs",
+              "ToolTip": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Fuel.cs",
+              "RelativeToolTip": "CarDealer\\Fuel.cs",
+              "ViewState": "AQIAAO4AAAAAAAAAAAAkwPUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T04:37:36.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fuel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Fuel.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Fuel.cs",
+              "ToolTip": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Fuel.cs [Design]",
+              "RelativeToolTip": "CarDealer\\Fuel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T04:36:11.999Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Categories.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Categories.cs",
+              "ToolTip": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Categories.cs",
+              "RelativeToolTip": "CarDealer\\Categories.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAIwGMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T04:37:02.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Categories.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Categories.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Categories.cs",
+              "ToolTip": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Categories.cs [Design]",
+              "RelativeToolTip": "CarDealer\\Categories.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T04:35:05.581Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Company.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Company.cs",
+              "ToolTip": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Company.cs",
+              "RelativeToolTip": "CarDealer\\Company.cs",
+              "ViewState": "AQIAAOQAAAAAAAAAAAA3wPEAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T04:41:45.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Company.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Company.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Company.cs",
+              "ToolTip": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Company.cs [Design]",
+              "RelativeToolTip": "CarDealer\\Company.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T04:41:43.681Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Register.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Register.cs",
+              "ToolTip": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Register.cs [Design]",
+              "RelativeToolTip": "CarDealer\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T23:49:57.836Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Dashboard.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Dashboard.cs [Design]",
+              "RelativeToolTip": "CarDealer\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T04:47:29.816Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Dashboard.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Dashboard.cs",
+              "RelativeToolTip": "CarDealer\\Dashboard.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAEAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T04:47:33.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Login.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Login.cs",
+              "ToolTip": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Login.cs",
+              "RelativeToolTip": "CarDealer\\Login.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAIwGYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T00:13:22.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Login.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Login.cs",
+              "ToolTip": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Login.cs [Design]",
+              "RelativeToolTip": "CarDealer\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T00:11:32.405Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Register.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Register.cs",
+              "ToolTip": "C:\\Users\\symam\\source\\repos\\CarDealer\\CarDealer\\Register.cs",
+              "RelativeToolTip": "CarDealer\\Register.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAgwHMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T23:55:05.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
